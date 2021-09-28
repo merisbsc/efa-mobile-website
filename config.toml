@@ -1,0 +1,5 @@
+baseURL = 'http:/efa-mobile.com'
+languageCode = 'en-us'
+title = 'EFA MOBILE'
+theme = "hugo-theme-introduction-master"
+
