@@ -1,4 +1,4 @@
-baseURL = 'http:/efa-mobile.com'
+baseURL = 'https://mbesic.github.io/efa-mobile-website'
 languageCode = 'en-us'
 title = 'EFA MOBILE'
 theme = "hugo-theme-introduction-master"
